@@ -15,9 +15,9 @@ const HomePage = () => {
       <p className='text-7xl text-center font-bold mt-12'>WELCOME TO THE WORLD</p>
       <p className='text-6xl text-center font-bold mt-4'>MOST SECURE PAYMENT GATWAY</p>
       <div className='flex justify-center mt-20 relative'>
-        <img src={image2} alt='...' className='w-60 h-60 absolute bottom-0 left-80 rounded-xl -mb-12'/>
+        <img src={image2} alt='...' className='w-60 h-60 absolute bottom-0 left-96 rounded-xl -mb-12'/>
         <img src={image1} alt='...' style={{height:'50%', width:'50%', borderRadius:12}}/>
-        <img src={image3} alt='...' className='w-96 h-96 mt-12 absolute right-80 rounded-2xl' />
+        <img src={image3} alt='...' className='w-96 h-96 mt-12 absolute right-96 rounded-2xl' />
       </div>
       <div className='flex justify-center items-center gap-10 mt-28'>
         <img src={image4} alt='...' className='w-48 h-24'/>
